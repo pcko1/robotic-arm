@@ -1,7 +1,11 @@
 # robotic-arm
-Detailed kinematics analysis of a 5-DOF robotic arm (RPRRR) without spherical wrist. 
+Detailed kinematics analysis of a 5-DOF robotic arm (RPRRR) without spherical wrist using nonlinear optimization for inverse kinematics subjected to joint constraints. 
 
-The methodology and background of the methods are described in depth in the attached report.
+The methodology and background of the methods are described in depth in the attached [report](https://github.com/pcko1/robotic-arm/blob/master/robot-arm-report.pdf).
+
+The proposed inverse kinematics solution exhibits very promising results.
+
+Note: This project has been developed purely out of personal curiosity.
 
 ## Arm Geometry
 <p align="center">
@@ -47,4 +51,3 @@ The methodology and background of the methods are described in depth in the atta
 <p align="center">
   <img src="Figures/tool_traj.png" alt=""/>
 </p>
-## 
