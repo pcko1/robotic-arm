@@ -47,7 +47,7 @@ The proposed inverse kinematics solution exhibits very promising results.
   <img src="Figures/cubic_splines.png" alt=""/>
 </p>
 
-## Required Tool Trajectory
+## Resulting Tool Trajectory
 <p align="center">
   <img src="Figures/tool_traj.png" alt=""/>
 </p>
