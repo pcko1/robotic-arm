@@ -5,8 +5,6 @@ The methodology and background of the methods are described in depth in the atta
 
 The proposed inverse kinematics solution exhibits very promising results.
 
-**This project has been developed purely out of personal curiosity.**
-
 ## Arm Geometry
 <p align="center">
   <img src="Figures/DH.PNG" alt="MLP"/>
