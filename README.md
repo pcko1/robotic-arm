@@ -1,4 +1,4 @@
-# robotic-arm
+# Inverse kinematics solution for 5-DOF industrial robot with non-spherical wrist
 Detailed kinematics analysis of a 5-DOF robotic arm (RPRRR) without spherical wrist using nonlinear optimization for inverse kinematics subjected to joint constraints. 
 
 The methodology and background of the methods are described in depth in the attached [report](https://github.com/pcko1/robotic-arm/blob/master/robot-arm-report.pdf).
